@@ -1,0 +1,20 @@
+Best Summary Method: LEXRANK (from Sumy)
+
+As my daughter was very inquisitive, she asked me “Papa, what stuff?” I said, “I need to code something for my work.” She didn’t leave.
+“Neural Network is a collection (a network) of neurons whose job is to learn a new thing or a new place or a new process or a new concept.” It would be stupid on my part to start with a definition of Neural Network like how we used to teach adults in college.
+I said, “Good Job!” and asked her, “Where’s the tail, baby?” She smiled and drew a tail.
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+Was it a dog or a lion?
+Do you know what is the difference between a lion and a dog?” She said, “Yes.” I said, “This is called Learning.
+Ultimately, the neurons in your brain tell that it is a lion and not a dog.
+This is what a neural network is and this is how it works in identifying things.
+Tanishi: That’s it.
+Me: So, for a dog, the features are face, body, legs and tail.
+
+Reasoning:
+
+Why LexRank?
+LexRank uses graph-based centrality scoring on a similarity graph of sentences. Similar to PageRank, it connects semantically similar sentences with weighted edges based on cosine similarity of TF-IDF vectors. Sentences recommended by other important sentences rank higher.
+
+Why was it good?
+This method was selected as the best summarization approach because it effectively captures the narrative flow of the original article by showing how the professor taught his daughter about neural networks using simple, relatable examples. It preserves key concepts like features and how neurons work together to identify patterns, while maintaining the educational value.

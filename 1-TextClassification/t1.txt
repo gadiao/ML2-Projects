@@ -1,0 +1,18 @@
+This task tests your ability to solve a real-world problem using the concepts learned in Text Classification module.
+Create a benchmark analysis with different algorithms and feature extractors.
+
+Dataset: Fetch 20 Newsgroups (same as in class work)​
+
+Algorithms: Multinomial Naïve Bayes, Logistic Regression, Support Vector Machines, Decision Trees​
+
+Feature Extractors: CountVectorizer, Word2Vec, Doc2Vec and so on​
+
+​
+
+Benchmark all the possible above configurations and choose the best algorithm and feature extractor amongst all configurations​ and put it in a .txt or .doc file in a tabular format.
+
+Create a new Notebook and fill in all the necessary code cells for the benchmarking.
+And  save the notebook and  submit the Ipython Notebook (. ipynb) with the following filename format:
+If your name is Vejey Gandyer,  your filename (.ipynb) should be  Vejey_Task0_Text_Classification.ipynb
+If your name is Vejey Gandyer,  your filename (.txt) or (.doc) should be Vejey_Task0_Text_Classification.txt or Vejey_Task0_Text_Classification.doc
+All the best and have fun learning.

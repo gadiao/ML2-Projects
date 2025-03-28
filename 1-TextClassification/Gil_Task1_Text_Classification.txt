@@ -1,0 +1,8 @@
+Best combination
+
+Feature Extractor:	TfidfVectorizer
+Algorithm:	LinearSVC
+Accuracy: 	0.9564
+F1-Score:	0.9563
+Training Time: 	0.85s
+Prediction Time:	0.19s
